@@ -1,0 +1,130 @@
+Pensamento Computacional
+ovrview
+Problemas, intruções, passo a passo, ser execudado por algoritmo
+Formulação e resolução de problemas.
+
+Habilidade Generalista
+escrita, leitura, matemática
+
+4 pilares
+decomposição
+reconhecimento de padrões
+abstração
+desing algoritmos
+
+TESTE/REFINAMENTO/ANÁLISE
+
+HABILIDADES complementares
+
+Raciocínio Lógico
+pensamento estruturado
+resolução de problemas
+
+Indução- ciências experimentais
+Dedução- previsões e explicações (ciências exatas)
+Abdução- Conclusão - Premissa
+
+
+PILARES DO PENSAMENTO COMPUTACIONAL
+
+Decomposição
+Análise, estgudar, explorar
+síntese 
+
+Execução das tarefas> sequencial (FILA) 
+ou paralelo (CONCOMITAMENTE) + efiência
+
+Desonvolver "by yourself"
+
+Componentes, identifique os dados
+agregar os dados
+funcionalidade
+
+Reconhecimento de Padrão (generalização)
+modelo base
+Estrutura inavariante
+Repetição
+
+EX: Sequência de números
+similaridades e diferença
+classificação de objetos
+[categorias, classes]
+Representação de atributos
+Aprendizado, conceito associado ao objeto
+Armazenar dados
+Regras de decisão
+
+Métodos X Aplicações
+
+Aplicações
+classificação de dados, reconhecimento de imagem
+reconhecimento de fala, análise de cenas,
+classificação de docs
+
+Abstração
+ ABSTRAIR
+observar diferentes elementos,avaliar carac
+terísticas
+Abstração
+Processo intelectual de isolamento de um 
+objeto da realidade
+Generalizar
+Tornar-se geral, mais amplo, extensão
+
+Generalização
+
+reunir classe geral,um cj de sres ou fenÔ
+menos.
+
+classificar, características, pontos essencias
+generalizar X detalhar
+
+Abstração 
+Representação de dados
+[Pontos essenciais]
+
+Linguagens de programação
+comunicação
+arquiteturas
+
+Algoritmos
+
+Processamento de dados
+o computador recebe, manipula e armazena
+os dados.
+
+Processo de resolução de problemas (passo a passo)
+Entendimento humano X máquina
+ desolvimento de programa
+Análise
+estudo e definição
+
+Algortimo descreve o problema por meio
+de ferramentas narrativas, fluxograma
+
+Codificação
+de acordo com a linguagem de programção escolhida
+
+Algoritmo
+Sequência de passos com obj definido
+Execução de tarefas específicas
+Conjunto de operações
+(etapas)
+
+Construção de Algoritmos
+
+Narrativa (liguagem natural)
+fluxograma (utilização de símbolos pré definidos 
+Pseudocódigo (Passos a serem seguidos) Portugol
+
+Algoritmo é um passo para solução
+
+ESTUDO DE CASO
+
+
+
+
+
+
+
+
